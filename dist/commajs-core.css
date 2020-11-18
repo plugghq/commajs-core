@@ -1,0 +1,24 @@
+
+
+.commaQuoteContainer {
+    padding: 0px 0px 0px 20px;
+    border-left: 4px solid #e0e0e0;
+    margin: 0px 0px 0px 10px;
+}
+
+/* SUP/SUB-SCRIPTS */
+
+.scplSub, .scplSup {
+    font-size: 75% !important;
+    line-height: 0 !important;
+    position: relative !important;
+    vertical-align: baseline !important;
+}
+
+.scplSup {
+    top: -0.5em !important;
+}
+
+.scplSub {
+    bottom: -0.25em !important;
+}
